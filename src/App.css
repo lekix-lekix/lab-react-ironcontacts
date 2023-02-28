@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.actor-td img {
+  width: 6rem;
+}
+
+table {
+  width: 60rem;
+}
